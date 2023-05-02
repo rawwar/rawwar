@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/rawwar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rawwar&theme=dark&show_icons=true" />
+</a>
