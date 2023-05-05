@@ -19,8 +19,5 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rawwar&theme=vue-dark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rawwar&layout=compact&langs_count=8&theme=vue-dark"/><br/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rawwar&theme=vue-dark&hide_border=true"/><br/>
-
-<img height="180px"
-  src="https://stackoverflow-card.vercel.app/?userID=8898218&theme=stackoverflow-dark"
-/>
+  <img height="180em" src="https://stackoverflow-card.vercel.app/?userID=8898218&theme=stackoverflow-dark"/>
 </a>
