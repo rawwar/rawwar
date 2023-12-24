@@ -17,3 +17,11 @@
 ## Features
 
 ## Bug fixes  
+
+
+
+# OpenSearch
+
+## How to debug in IntelliJ
+
+Start the remote debugger in Intellij and then run `gradlew.bat run --debug-jvm`.  
